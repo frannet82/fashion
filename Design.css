@@ -1,0 +1,33 @@
+html
+{
+	font-family: verdana;
+}
+
+h3
+{
+	display:inline;
+}
+#design
+{
+	right: 0%;
+	left: 0%;
+	border: solid;
+	border-radius: 20px;
+	padding: 20px;
+	width: 30%;
+	height: 20%;
+}
+#Feacture
+{
+	border: solid;
+	border-width: 1px;
+	padding: 20px;
+	overflow:scroll;
+}
+#Type
+{
+	border: solid;
+	border-width: 1px;
+	padding: 20px;
+	overflow:scroll;
+}
